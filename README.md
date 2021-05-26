@@ -36,5 +36,5 @@ docker build -t qemu .
 checking the version
 
 ```
-docker run -rm qemu qemu-system-gnuarmclipse --version
+docker run --rm qemu qemu-system-gnuarmeclipse --version
 ```
